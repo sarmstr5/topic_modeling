@@ -1,0 +1,4 @@
+# exclude datasets because of size
+# datasets can be found at https://archive.ics.uci.edu/ml/datasets/Bag+of+Words
+/data/*
+/assignment/*
